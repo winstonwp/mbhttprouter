@@ -1,0 +1,24 @@
+{
+  "name": "mbrouter",
+  "version": "0.0.1",
+  "description": "Routing an http request to another server with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winstonwp/mbrouter.git"
+  },
+  "author": "winstonwp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winstonwp/mbrouter/issues"
+  },
+  "homepage": "https://github.com/winstonwp/mbrouter#readme",
+  "dependencies": {
+    "guess-content-type": "^0.1.0",
+    "uuid": "^2.0.2",
+    "winston": "^2.2.0"
+  }
+}
