@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/winstonwp/mbrouter.git"
+    "url": "git+https://github.com/winstonwp/mbhttprouter.git"
   },
   "author": "winstonwp",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/winstonwp/mbrouter/issues"
+    "url": "https://github.com/winstonwp/mbhttprouter/issues"
   },
-  "homepage": "https://github.com/winstonwp/mbrouter#readme",
+  "homepage": "https://github.com/winstonwp/mbhttprouter#readme",
   "dependencies": {
     "guess-content-type": "^0.1.0",
     "uuid": "^2.0.2",
